@@ -31,4 +31,9 @@ namespace TCPServerExample
             t.Close();
         }
     }
+
+    public static class DataStorage 
+    {
+        public static int Number;
+    }
 }
