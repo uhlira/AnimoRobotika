@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "af5c08fb-2ba1-4b7a-9f1f-8fc28d40b966": {
+      "ProjectGuid": "af5c08fb-2ba1-4b7a-9f1f-8fc28d40b966",
+      "DisplayName": "TCPServerExample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,8 @@
+W:\School\AnimoRobotika2\C#\TCPServerExample\TCPServerExample\bin\Debug\TCPServerExample.exe.config
+W:\School\AnimoRobotika2\C#\TCPServerExample\TCPServerExample\bin\Debug\TCPServerExample.exe
+W:\School\AnimoRobotika2\C#\TCPServerExample\TCPServerExample\bin\Debug\TCPServerExample.pdb
+W:\School\AnimoRobotika2\C#\TCPServerExample\TCPServerExample\obj\Debug\TCPServerExample.csproj.AssemblyReference.cache
+W:\School\AnimoRobotika2\C#\TCPServerExample\TCPServerExample\obj\Debug\TCPServerExample.csproj.SuggestedBindingRedirects.cache
+W:\School\AnimoRobotika2\C#\TCPServerExample\TCPServerExample\obj\Debug\TCPServerExample.csproj.CoreCompileInputs.cache
+W:\School\AnimoRobotika2\C#\TCPServerExample\TCPServerExample\obj\Debug\TCPServerExample.exe
+W:\School\AnimoRobotika2\C#\TCPServerExample\TCPServerExample\obj\Debug\TCPServerExample.pdb
